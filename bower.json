@@ -1,0 +1,17 @@
+{
+  "name": "purescript-halogen-bootstrap4",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mschristiansen/purescript-halogen-bootstrap4.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-halogen": "^4.0.0"
+  }
+}
