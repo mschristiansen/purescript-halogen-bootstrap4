@@ -1369,6 +1369,39 @@ offset8 = ClassName "offset-8"
 offset9 :: ClassName
 offset9 = ClassName "offset-9"
 
+offsetMd1 :: ClassName
+offsetMd1 = ClassName "offset-md-1"
+
+offsetMd10 :: ClassName
+offsetMd10 = ClassName "offset-md-10"
+
+offsetMd11 :: ClassName
+offsetMd11 = ClassName "offset-md-11"
+
+offsetMd2 :: ClassName
+offsetMd2 = ClassName "offset-md-2"
+
+offsetMd3 :: ClassName
+offsetMd3 = ClassName "offset-md-3"
+
+offsetMd4 :: ClassName
+offsetMd4 = ClassName "offset-md-4"
+
+offsetMd5 :: ClassName
+offsetMd5 = ClassName "offset-md-5"
+
+offsetMd6 :: ClassName
+offsetMd6 = ClassName "offset-md-6"
+
+offsetMd7 :: ClassName
+offsetMd7 = ClassName "offset-md-7"
+
+offsetMd8 :: ClassName
+offsetMd8 = ClassName "offset-md-8"
+
+offsetMd9 :: ClassName
+offsetMd9 = ClassName "offset-md-9"
+
 order0 :: ClassName
 order0 = ClassName "order-0"
 
