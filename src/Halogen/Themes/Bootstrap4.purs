@@ -1318,6 +1318,18 @@ navbarDark = ClassName "navbar-dark"
 navbarExpand :: ClassName
 navbarExpand = ClassName "navbar-expand"
 
+navbarExpandSm :: ClassName
+navbarExpandSm = ClassName "navbar-expand-sm"
+
+navbarExpandMd :: ClassName
+navbarExpandMd = ClassName "navbar-expand-md"
+
+navbarExpandLg :: ClassName
+navbarExpandLg = ClassName "navbar-expand-lg"
+
+navbarExpandXl :: ClassName
+navbarExpandXl = ClassName "navbar-expand-xl"
+
 navbarLight :: ClassName
 navbarLight = ClassName "navbar-light"
 
