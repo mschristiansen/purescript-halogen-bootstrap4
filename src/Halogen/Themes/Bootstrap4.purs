@@ -1681,6 +1681,18 @@ show = ClassName "show"
 small :: ClassName
 small = ClassName "small"
 
+spinnerBorder :: ClassName
+spinnerBorder = ClassName "spinner-border"
+
+spinnerBorderSm :: ClassName
+spinnerBorderSm = ClassName "spinner-border-sm"
+
+spinnerGrow :: ClassName
+spinnerGrow = ClassName "spinner-grow"
+
+spinnerGrowSm = ClassName
+spinnerGrowSm = ClassName "spinner-grow-sm"
+
 srOnly :: ClassName
 srOnly = ClassName "sr-only"
 
