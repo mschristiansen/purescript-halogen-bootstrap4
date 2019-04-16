@@ -1690,7 +1690,7 @@ spinnerBorderSm = ClassName "spinner-border-sm"
 spinnerGrow :: ClassName
 spinnerGrow = ClassName "spinner-grow"
 
-spinnerGrowSm = ClassName
+spinnerGrowSm :: ClassName
 spinnerGrowSm = ClassName "spinner-grow-sm"
 
 srOnly :: ClassName
