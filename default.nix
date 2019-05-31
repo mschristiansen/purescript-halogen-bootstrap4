@@ -7,6 +7,6 @@ stdenv.mkDerivation rec {
     nodePackages.bower
     nodePackages.pulp
     nodejs
-    # purescript
+    purescript
   ];
 }

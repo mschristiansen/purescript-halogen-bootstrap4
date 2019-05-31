@@ -1,7 +1,7 @@
 -- | This module provides CSS class names for all Bootstrap 4 classes.
 module Halogen.Themes.Bootstrap4 where
 
-import Halogen.HTML (ClassName(..))
+import Halogen.HTML.Core (ClassName(..))
 
 
 accordion :: ClassName
