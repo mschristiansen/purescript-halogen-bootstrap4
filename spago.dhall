@@ -5,5 +5,5 @@ You can edit this file as you like.
 { name = "halogen-bootstrap4"
 , dependencies = [ "console", "effect", "halogen", "psci-support" ]
 , packages = ./packages.dhall
-, sources = [ "src/**/*.purs", "test/**/*.purs" ]
+, sources = [ "src/**/*.purs" ]
 }
