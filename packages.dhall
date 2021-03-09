@@ -105,7 +105,7 @@ in  upstream
 -------------------------------
 -}
 let upstream =
-      https://github.com/purescript/package-sets/releases/download/psc-0.14.0-20210302/packages.dhall sha256:20cc5b89cf15433623ad6f250f112bf7a6bd82b5972363ecff4abf1febb02c50
+      https://github.com/purescript/package-sets/releases/download/psc-0.14.0-20210309/packages.dhall sha256:585332a8a11c6420d7287943f81bc2121746cdd352f2cf3f5ecf65053f2afcd3
 
 let additions = {
  event =
@@ -122,36 +122,6 @@ let additions = {
             "https://github.com/thomashoneyman/purescript-event.git"
         , version =
             "master"  -- branch, tag, or commit hash
-        },
- halogen =
-        { dependencies =
-          [ "aff"
-            , "avar"
-            , "console"
-            , "const"
-            , "dom-indexed"
-            , "event"
-            , "effect"
-            , "foreign"
-            , "fork"
-            , "free"
-            , "freeap"
-            , "halogen-vdom"
-            , "media-types"
-            , "nullable"
-            , "ordered-collections"
-            , "parallel"
-            , "profunctor"
-            , "transformers"
-            , "unsafe-coerce"
-            , "unsafe-reference"
-            , "web-file"
-            , "web-uievents"
-            ]
-        , repo =
-            "https://github.com/srghma/purescript-halogen.git"
-        , version =
-            "patch-6"  -- branch, tag, or commit hash
         }
 }
 
