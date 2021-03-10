@@ -1,8 +1,0 @@
-{
-  "name": "halogen-bootstrap4",
-  "set": "psc-0.12.5",
-  "source": "https://github.com/purescript/package-sets.git",
-  "depends": [
-    "halogen"
-  ]
-}
